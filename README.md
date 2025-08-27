@@ -16,7 +16,7 @@
 - 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
 
 
-I havent held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
+I havent held Numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
 
 ### Education
 
