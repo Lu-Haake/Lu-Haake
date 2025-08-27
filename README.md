@@ -11,7 +11,7 @@
 
 - 🧠 I like to learn something new
 
-- 📫 How to reach me **dejohns2@wsc.edu**
+- 📫 How to reach me **lukashaake27@gmail.com**
 
 - 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
 
