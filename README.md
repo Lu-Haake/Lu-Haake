@@ -1,29 +1,14 @@
 # Hi 👋, I'm Lukas Haake
 ## About Me
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming
+- 🏦 I'm currently studying Networking and Cybersecurity at Wayne State College
 
-- 📚 I’m studing to complete my Python certifications
+- 👨🏻‍💻 I love programming and solving problems
 
-- 🤔 I use daily .java, .cpp, .py, .sql
-
-- 👨🏻‍💻 Love programming and resolving problems
-
-- 🧠 I like to learn something new
+- 💻 I love playing video games and spending time with friends and family
 
 - 📫 How to reach me **lukashaake27@gmail.com**
 
-- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
-
-
-I havent held Numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
-
 ### Education
 
-- MSOM, IT Management, Wayne State College, 2016
-
-- B.A., Computer Information Systems/Web Analyst, Wayne State College, 2014
-
-- A.A., Northeast Community College, 2014
-
-- AAS, Computer Programming, Northeast Community College, 1984
+- High School diplomia from Gretna High School
