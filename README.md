@@ -12,3 +12,8 @@
 ### Education
 
 - High School diplomia from Gretna High School
+
+### Languages
+
+- I can currently code in C++
+- I can code a little in Java and Python
